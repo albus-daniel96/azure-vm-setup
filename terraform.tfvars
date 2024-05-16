@@ -1,0 +1,11 @@
+vm-rg-name = "Terra-RG"
+vm-location = "West Europe"
+vm-network-name = "VM-Network"
+vm-address_space = ["10.0.0.0/16"]
+vm-subnet-name = "internal"
+vm-subnet-address_space = ["10.0.2.0/24"]
+vm-nsg-name = "VM-Networl-NSG"
+vm-tag = "Production"
+vm-pip = "VM-PIP"
+vm-nic-name = "VM-NIC"
+vm-name = "VM"

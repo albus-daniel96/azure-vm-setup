@@ -1,0 +1,11 @@
+variable "vm-rg-name" {}
+variable "vm-location" {}
+variable "vm-network-name" {}
+variable "vm-address_space" {}
+variable "vm-subnet-name" {}
+variable "vm-subnet-address_space" {}
+variable "vm-nsg-name" {}
+variable "vm-tag" {}
+variable "vm-pip" {}
+variable "vm-nic-name" {}
+variable "vm-name" {}
